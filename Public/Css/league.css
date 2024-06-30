@@ -1,0 +1,26 @@
+.playfair-display-font {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+  }
+  
+  .playfair-display-font-title {
+      font-family: "Playfair Display", serif;
+      font-optical-sizing: auto;
+      font-style: normal;
+      color: white;
+  }
+  
+  .background-page {
+      background-color: #0BA2EE !important;
+  }
+  
+  .btn-white {
+    background-color: white;
+  }
+  
+  .font-links-style {
+    font-family: Playfair Display, serif; 
+    font-optical-sizing: auto; 
+    font-style: normal;
+  }
